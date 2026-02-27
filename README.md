@@ -4,9 +4,6 @@ Welcome to my GitHub profile.
 
 I'm a student and developer with interests in computer science, software development, and digital projects. I enjoy combining technical skills with creativity, whether through programming, academic work, or community projects.
 
-Inline-style:
-![alt text] (Profile.png "Profile Picture")
-
 ---
 
 ## About Me
